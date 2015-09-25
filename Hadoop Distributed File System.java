@@ -1,0 +1,10 @@
+/*
+
+	Hadoop Distributed File System
+
+		Hadoop Common 
+			these are java libraries and utilities required by other hadoop modules
+
+		Hadoop YARN
+			This is a framework for job scheduling and cluster resource management.
+*/
