@@ -1,6 +1,6 @@
-# Hadoop - Big Data Analysis Study Notes
+# Hadoop - Study
 
-## Table of Contents
+## TOC
 
 - [Big Data OverView](#Big-Data-Overview)
   - [What is Big data](#What-is-Big-data)
